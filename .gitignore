@@ -1,0 +1,30 @@
+# Compiled Source #
+###################
+*.pyc
+*.pyo
+
+
+# Backup Files #
+################
+*~
+
+# Directories #
+###############
+.idea/**
+
+# Packages #
+############
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and Databases #
+######################
+*.log
+*.sql
+*.sqlite
